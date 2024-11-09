@@ -78,7 +78,7 @@ Songwei Zhao, Bo Yu, Sinuo Zhang, <u>Zhejian Yang</u>, Jifeng Hu, Philip S. Yu, 
 <span style="color: grey;">
 <b><i>Continual Diffuser (CoD): Mastering Continual Offline Reinforcement Learning with Experience Rehearsal </i></b></span>
 <br>
-Hu, Jifeng, Li Shen, Sili Huang, Zhejian Yang, Hechang Chen, Lichao Sun, Yi Chang, and Dacheng Tao
+Hu, Jifeng, Li Shen, Sili Huang, <u>Zhejian Yang</u>, Hechang Chen, Lichao Sun, Yi Chang, and Dacheng Tao
 <br>
 <span style="color: grey;"><i>(under review)</i></span>
 </li>
@@ -87,7 +87,7 @@ Hu, Jifeng, Li Shen, Sili Huang, Zhejian Yang, Hechang Chen, Lichao Sun, Yi Chan
 <span style="color: grey;">
 <b><i>Solving Continual Offline RL through Selective Weights Activation on Aligned Spaces </i></b></span>
 <br>
-Hu, Jifeng, Sili Huang, Li Shen, Zhejian Yang, Shengchao Hu, Shisong Tang, Hechang Chen, Yi Chang, Dacheng Tao, and Lichao Sun
+Hu, Jifeng, Sili Huang, Li Shen, <u>Zhejian Yang</u>, Shengchao Hu, Shisong Tang, Hechang Chen, Yi Chang, Dacheng Tao, and Lichao Sun
 <br>
 <span style="color: grey;"><i>(under review)</i></span>
 </li>
