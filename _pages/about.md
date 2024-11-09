@@ -22,6 +22,8 @@ Li, Yang, Bo Yang, Xuehua Zhao, <u>Zhejian Yang</u>, and Hechang Chen
 <br>
 Knowledge-Based Systems (2023)
 </li>
+</ol>
+</p>
 
 <p style="text-align: justify;">
 <ol>
@@ -31,6 +33,8 @@ Liu, Tianyi, Hechang Chen, Jifeng Hu, <u>Zhejian Yang</u>, Bo Yu, Xinqi Du, Yinx
 <br>
 Expert Systems with Applications (2024)
 </li>
+</ol>
+</p>
 
 <p style="text-align: justify;">
 <ol>
@@ -40,6 +44,8 @@ Yang, Kang, Zhiwei Yang, Songwei Zhao, <u>Zhejian Yang</u>, Sinuo Zhang, and Hec
 <br>
 Knowledge-Based Systems (2024)
 </li>
+</ol>
+</p>
 
 <p style="text-align: justify;">
 <ol>
@@ -49,6 +55,8 @@ Zhang, Sinuo, Jifeng Hu, Xinqi Du, <u>Zhejian Yang</u>, Yang Yu, and Hechang Ch
 <br>
 IJCNN'2024
 </li>
+</ol>
+</p>
 
 <p style="text-align: justify;">
 <ol>
@@ -58,6 +66,8 @@ Huang, Sili, Jifeng Hu, <u>Zhejian Yang</u>, Liwei Yang, Tao Luo, Hechang Chen, 
 <br>
 NeurIPS'2025, Vancouver
 </li>
+</ol>
+</p>
 
 <li>
 <span style="color: grey;">
