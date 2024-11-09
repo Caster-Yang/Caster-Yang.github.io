@@ -53,8 +53,6 @@ Service
 ------
 
 <p style="text-align: justify;">
-📝 ECML'2024, Vilnius, Reviewer
-<br>
 👨‍🏫 2021/2022 semester 2, Pattern Recognition and Machine Learning, TA
 <br>
 👨‍🏫 2022/2023 semester 2, Pattern Recognition and Machine Learning, TA
