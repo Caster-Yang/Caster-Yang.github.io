@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-I am currently a Ph.D. candidate majoring in artificial intelligence at the <a href="https://sai.jlu.edu.cn/">School of Artificial Intelligence</a>, <a href="https://www.jlu.edu.cn/">Jilin University</a>  (985, 211, Double 1st-Class), supervised by <a href="https://scholar.google.com/citations?user=EezEcbgAAAAJ/">Prof. Hechang Chen</a>. My research interests lie in the fields of large language models, reinforcement learning, and embodied AI.
+I am currently a Ph.D. candidate majoring in artificial intelligence at the <a href="https://sai.jlu.edu.cn/">School of Artificial Intelligence</a>, <a href="https://www.jlu.edu.cn/">Jilin University</a>  (985, 211, Double 1st-Class), supervised by <a href="https://scholar.google.com/citations?user=EezEcbgAAAAJ/">Prof. Hechang Chen</a>. My research interests lie in the fields of complex network analysis, large language models, reinforcement learning, and embodied AI.
 </p>
 
 Research Outputs
