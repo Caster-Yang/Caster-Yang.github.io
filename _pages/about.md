@@ -16,20 +16,100 @@ Research Outputs
 
 <p style="text-align: justify;">
 <ol>
-<li> <b>Geometry Awakening: Cross-Geometry Learning Exhibits Superiority over Individual Structures</b>
+<li> <b>SSBM: A signed stochastic block model for multiple structure discovery in large-scale exploratory signed networks</b>
 <br>
-<u>Yadong Sun</u>, Xiaofeng Cao, Yu Wang, Wei Ye, Jingcai Guo, Qing Guo
+Li, Yang, Bo Yang, Xuehua Zhao, <u>Zhejian Yang</u>, and Hechang Chen
 <br>
-NeurIPS'2024, Vancouver
+Knowledge-Based Systems (2023)
+</li>
+
+<p style="text-align: justify;">
+<ol>
+<li> <b>Generalized multi-agent competitive reinforcement learning with differential augmentation</b>
+<br>
+Liu, Tianyi, Hechang Chen, Jifeng Hu, <u>Zhejian Yang</u>, Bo Yu, Xinqi Du, Yinxiao Miao, and Yi Chang
+<br>
+Expert Systems with Applications (2024)
+</li>
+
+<p style="text-align: justify;">
+<ol>
+<li> <b>Uncertainty-Aware Contrastive Learning for semi-supervised named entity recognition</b>
+<br>
+Yang, Kang, Zhiwei Yang, Songwei Zhao, <u>Zhejian Yang</u>, Sinuo Zhang, and Hechang Chen
+<br>
+Knowledge-Based Systems (2024)
+</li>
+
+<p style="text-align: justify;">
+<ol>
+<li> <b>Effective State Space Exploration with Phase State Graph Generation and Goal-based Path Planning</b>
+<br>
+Zhang, Sinuo, Jifeng Hu, Xinqi Du, <u>Zhejian Yang</u>, Yang Yu, and Hechang Chen
+<br>
+IJCNN'2024
+</li>
+
+<p style="text-align: justify;">
+<ol>
+<li> <b>Decision Mamba: Reinforcement Learning via Hybrid Selective Sequence Modeling</b>
+<br>
+Huang, Sili, Jifeng Hu, <u>Zhejian Yang</u>, Liwei Yang, Tao Luo, Hechang Chen, Lichao Sun, and Bo Yang
+<br>
+NeurIPS'2025, Vancouver
 </li>
 
 <li>
 <span style="color: grey;">
-<b><i>A paper on cross-geometric dynamic link prediction. </i></b></span>
+<b><i>A Scalable Signed Stochastic Block Model </i></b></span>
 <br>
-<u>Yadong Sun</u>, Xiaofeng Cao, Yi Chang
+<u>Zhejian Yang</u>, Bo Yu, Jifeng Hu, Sili Huang, Songwei Zhao, Sinuo Zhang, Philip S. Yu, Hechang Chen, and Lichao Sun
 <br>
-<span style="color: grey;"><i>(under a double-blind review)</i></span>
+<span style="color: grey;"><i>(under review)</i></span>
+</li>
+</ol>
+</p>
+
+<li>
+<span style="color: grey;">
+<b><i>A Degree-corrected Stochastic Blockmodel for Signed Network Community Discovery with Heterogeneous Degree Distribution </i></b></span>
+<br>
+<u>Zhejian Yang</u>, Yang Li, Bo Yu, Jifeng Hu, and Hechang Chen
+<br>
+<span style="color: grey;"><i>(under review)</i></span>
+</li>
+</ol>
+</p>
+
+<li>
+<span style="color: grey;">
+<b><i>EGNN: Exploring Structure-Level Neighborhoods in Graphs with Varying Homophily Ratios </i></b></span>
+<br>
+Songwei Zhao, Bo Yu, Sinuo Zhang, <u>Zhejian Yang</u>, Jifeng Hu, Philip S. Yu, and Hechang Chen
+<br>
+<span style="color: grey;"><i>(under review)</i></span>
+</li>
+</ol>
+</p>
+
+<li>
+<span style="color: grey;">
+<b><i>Continual Diffuser (CoD): Mastering Continual Offline Reinforcement Learning with Experience Rehearsal </i></b></span>
+<br>
+Hu, Jifeng, Li Shen, Sili Huang, Zhejian Yang, Hechang Chen, Lichao Sun, Yi Chang, and Dacheng Tao
+<br>
+<span style="color: grey;"><i>(under review)</i></span>
+</li>
+</ol>
+</p>
+
+<li>
+<span style="color: grey;">
+<b><i>Solving Continual Offline RL through Selective Weights Activation on Aligned Spaces </i></b></span>
+<br>
+Hu, Jifeng, Sili Huang, Li Shen, Zhejian Yang, Shengchao Hu, Shisong Tang, Hechang Chen, Yi Chang, Dacheng Tao, and Lichao Sun
+<br>
+<span style="color: grey;"><i>(under review)</i></span>
 </li>
 </ol>
 </p>
@@ -38,22 +118,20 @@ Awards
 ------
 
 <p style="text-align: justify;">
-🏆 National Encouragement Scholarship
+🏆 Second-class Scholarship
 <br>
-🏆 Outstanding Graduate of Shanghai
+🏆 First-class Academic Scholarship
 <br>
-🏆 Shanghai Scholarship
+🏆 The First Prize of Jilin Mathematics Competitions
 <br>
-🏆 SITC Scholarship
-<br>
-🏅 Datang Cup Shanghai City First Prize
+🏅 The Second Prize of Chinese Mathematics Competitions (Preliminary)
 </p>
 
 Service
 ------
 
 <p style="text-align: justify;">
-👨‍🏫 2021/2022 semester 2, Pattern Recognition and Machine Learning, TA
+👨‍🏫 2022/2023 semester 1, Machine Learning and Pattern Recognition I, TA
 <br>
-👨‍🏫 2022/2023 semester 2, Pattern Recognition and Machine Learning, TA
+👨‍🏫 2023/2024 semester 1, Machine Learning and Pattern Recognition I, TA
 </p>
