@@ -21,12 +21,7 @@ Research Outputs
 Li, Yang, Bo Yang, Xuehua Zhao, <u>Zhejian Yang</u>, and Hechang Chen
 <br>
 Knowledge-Based Systems (2023)
-</li>
-</ol>
-</p>
 
-<p style="text-align: justify;">
-<ol>
 <li> <b>Generalized multi-agent competitive reinforcement learning with differential augmentation</b>
 <br>
 Liu, Tianyi, Hechang Chen, Jifeng Hu, <u>Zhejian Yang</u>, Bo Yu, Xinqi Du, Yinxiao Miao, and Yi Chang
