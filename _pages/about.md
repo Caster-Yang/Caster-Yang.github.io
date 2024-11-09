@@ -55,8 +55,6 @@ Zhang, Sinuo, Jifeng Hu, Xinqi Du, <u>Zhejian Yang</u>, Yang Yu, and Hechang Ch
 <br>
 IJCNN'2024
 </li>
-</ol>
-</p>
 
 <p style="text-align: justify;">
 <ol>
@@ -66,8 +64,6 @@ Huang, Sili, Jifeng Hu, <u>Zhejian Yang</u>, Liwei Yang, Tao Luo, Hechang Chen, 
 <br>
 NeurIPS'2025, Vancouver
 </li>
-</ol>
-</p>
 
 <li>
 <span style="color: grey;">
@@ -77,8 +73,6 @@ NeurIPS'2025, Vancouver
 <br>
 <span style="color: grey;"><i>(under review)</i></span>
 </li>
-</ol>
-</p>
 
 <li>
 <span style="color: grey;">
@@ -88,8 +82,6 @@ NeurIPS'2025, Vancouver
 <br>
 <span style="color: grey;"><i>(under review)</i></span>
 </li>
-</ol>
-</p>
 
 <li>
 <span style="color: grey;">
@@ -99,8 +91,6 @@ Songwei Zhao, Bo Yu, Sinuo Zhang, <u>Zhejian Yang</u>, Jifeng Hu, Philip S. Yu, 
 <br>
 <span style="color: grey;"><i>(under review)</i></span>
 </li>
-</ol>
-</p>
 
 <li>
 <span style="color: grey;">
@@ -110,8 +100,6 @@ Hu, Jifeng, Li Shen, Sili Huang, Zhejian Yang, Hechang Chen, Lichao Sun, Yi Chan
 <br>
 <span style="color: grey;"><i>(under review)</i></span>
 </li>
-</ol>
-</p>
 
 <li>
 <span style="color: grey;">
