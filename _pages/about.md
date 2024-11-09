@@ -45,7 +45,7 @@ IJCNN'2024
 Huang, Sili, Jifeng Hu, <u>Zhejian Yang</u>, Liwei Yang, Tao Luo, Hechang Chen, Lichao Sun, and Bo Yang
 <br>
 NeurIPS'2025, Vancouver
-
+</li>
 <li>
 <span style="color: grey;">
 <b><i>A Scalable Signed Stochastic Block Model </i></b></span>
