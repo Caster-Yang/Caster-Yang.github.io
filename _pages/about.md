@@ -34,42 +34,6 @@ NeurIPS'2024, Vancouver
 </ol>
 </p>
 
-Project Experiences
-------
-
-<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
-  <tr>
-    <td style="padding:8px;width:40%;vertical-align:middle;border:none;">
-      <a href="images/facial_recognition.png">
-      <img src='images/facial_recognition.png' width="300">
-      </a>
-    </td>
-    <td style="padding:10px;width:60%;vertical-align:middle;border-right:none;border:none;">
-      <p style="text-align: justify;"><b>Research on Masked Face Recognition System Based on Deep Learning</b>
-      <br>
-      Developed a facial recognition system for masked faces using YOLOv5 for detection and FaceNet for feature extraction. It converges faster with a 4.12% mAP improvement. Switching from Inception ResNet v1 to MobileNet reduced parameters by 85% and computational cost by 80%, while the CBAM module boosted accuracy by 1%. </p>
-    </td>
-  </tr>
-  </table>
-<ul>
-<!-- <li> <p style="text-align: justify;"><b>Research on Masked Face Recognition System Based on Deep Learning</b>
-<br>
-  Developed a facial recognition system for masked faces using YOLOv5 for detection and FaceNet for feature extraction. It converges faster with a 4.12% mAP improvement. Switching from Inception ResNet v1 to MobileNet reduced parameters by 85% and computational cost by 80%, while the CBAM module boosted accuracy by 1%.</p></li> -->
-
-<li> <p style="text-align: justify;"><b>College Student Innovation and Entrepreneurship Assistant APP</b>
-  <br>
-  Developed an mobile app using Android Studio to assist college students in participating in innovation and entrepreneurship activities. The app includes features such as information browsing, community posting and interaction, and expert search. Visualization implemented using <i>echarts</i>. The server environment uses <i>Linux+Apache+MySQL+PHP</i>.</p></li>
-<li> <p style="text-align: justify;"><b>Open-Source Project NCNN Practice of Tencent</b>
-  <br>
-  Implement logsoftmax and logsigmoid operators, and develop a mathematical function library without dependencies.
-  <br>
-  Mentor: <a href="https://github.com/nihui">Ni Hui</a>, Research Expert at YouTu Lab, Tencent</p></li>
-</ul>
-
-
-  
-
-
 Awards
 ------
 
