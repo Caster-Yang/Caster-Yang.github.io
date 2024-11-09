@@ -21,42 +21,30 @@ Research Outputs
 Li, Yang, Bo Yang, Xuehua Zhao, <u>Zhejian Yang</u>, and Hechang Chen
 <br>
 Knowledge-Based Systems (2023)
-<br>
+</li>
 <li> <b>Generalized multi-agent competitive reinforcement learning with differential augmentation</b>
 <br>
 Liu, Tianyi, Hechang Chen, Jifeng Hu, <u>Zhejian Yang</u>, Bo Yu, Xinqi Du, Yinxiao Miao, and Yi Chang
 <br>
 Expert Systems with Applications (2024)
-
-
-<p style="text-align: justify;">
-<ol>
+</li>
 <li> <b>Uncertainty-Aware Contrastive Learning for semi-supervised named entity recognition</b>
 <br>
 Yang, Kang, Zhiwei Yang, Songwei Zhao, <u>Zhejian Yang</u>, Sinuo Zhang, and Hechang Chen
 <br>
 Knowledge-Based Systems (2024)
 </li>
-</ol>
-</p>
-
-<p style="text-align: justify;">
-<ol>
 <li> <b>Effective State Space Exploration with Phase State Graph Generation and Goal-based Path Planning</b>
 <br>
 Zhang, Sinuo, Jifeng Hu, Xinqi Du, <u>Zhejian Yang</u>, Yang Yu, and Hechang Chen
 <br>
 IJCNN'2024
-</li>
-
-<p style="text-align: justify;">
-<ol>
+</li> 
 <li> <b>Decision Mamba: Reinforcement Learning via Hybrid Selective Sequence Modeling</b>
 <br>
 Huang, Sili, Jifeng Hu, <u>Zhejian Yang</u>, Liwei Yang, Tao Luo, Hechang Chen, Lichao Sun, and Bo Yang
 <br>
 NeurIPS'2025, Vancouver
-</li>
 
 <li>
 <span style="color: grey;">
