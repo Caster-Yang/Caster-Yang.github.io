@@ -46,6 +46,7 @@ Huang, Sili, Jifeng Hu, <u>Zhejian Yang</u>, Liwei Yang, Tao Luo, Hechang Chen, 
 <br>
 NeurIPS'2025, Vancouver
 </li>
+
 <li>
 <span style="color: grey;">
 <b><i>A Scalable Signed Stochastic Block Model </i></b></span>
