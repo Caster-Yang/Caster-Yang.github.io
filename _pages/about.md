@@ -114,4 +114,6 @@ Service
 👨‍🏫 2022/2023 semester 1, Machine Learning and Pattern Recognition I, TA
 <br>
 👨‍🏫 2023/2024 semester 1, Machine Learning and Pattern Recognition I, TA
+<br>
+👨‍🏫 Member of <a href="https://github.com/OpenLLMAI/">OpenLLMAI</a> and <a href="https://github.com/OpenRLHF/">OpenRLHF</a, 2023 - present
 </p>
