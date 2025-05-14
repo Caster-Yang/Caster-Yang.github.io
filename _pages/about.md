@@ -49,15 +49,6 @@ NeurIPS'2025, Vancouver
 
 <li>
 <span style="color: grey;">
-<b><i>A Scalable Signed Stochastic Block Model </i></b></span>
-<br>
-<u>Zhejian Yang</u>, Bo Yu, Jifeng Hu, Sili Huang, Songwei Zhao, Sinuo Zhang, Philip S. Yu, Hechang Chen, and Lichao Sun
-<br>
-<span style="color: grey;"><i>(under review)</i></span>
-</li>
-
-<li>
-<span style="color: grey;">
 <b><i>A Degree-corrected Stochastic Blockmodel for Signed Network Community Discovery with Heterogeneous Degree Distribution </i></b></span>
 <br>
 <u>Zhejian Yang</u>, Yang Li, Bo Yu, Jifeng Hu, and Hechang Chen
