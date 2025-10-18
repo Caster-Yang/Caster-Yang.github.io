@@ -136,7 +136,7 @@ Zhaofan Zhang<sup>†</sup>, Rufeng Chen<sup>†</sup>, <u>Zhejian Yang</u><sup>
 <span style="color: grey;">
 <b><i>Towards Robust Multi-UAV Collaboration: MARL with Noise-Resilient Communication and Attention Mechanisms</i></b></span>
 <br>
-<u>Zilin Zhao, Chishui Chen, Haotian Shi, Jiale Chen, Xuanlin Yue, <u>Zhejian Yang</u><sup>*</sup>, and Yang Liu<sup>*</sup>
+Zilin Zhao, Chishui Chen, Haotian Shi, Jiale Chen, Xuanlin Yue, <u>Zhejian Yang</u><sup>*</sup>, and Yang Liu<sup>*</sup>
 <br>
 <span style="color: grey;"><i>(under review)</i></span>
 </li>
@@ -145,7 +145,7 @@ Zhaofan Zhang<sup>†</sup>, Rufeng Chen<sup>†</sup>, <u>Zhejian Yang</u><sup>
 <span style="color: grey;">
 <b><i>Coa-Tuning: Collaborative Adapter Ensembling with Prompt Enhancement for Class-Incremental Learning</i></b></span>
 <br>
-<u>Shengjie Wang, Jiuman Song, <u>Zhejian Yang</u>, Sinuo Zhang, and Hechang Chen
+Shengjie Wang, Jiuman Song, <u>Zhejian Yang</u>, Sinuo Zhang, and Hechang Chen
 <br>
 <span style="color: grey;"><i>(under review)</i></span>
 </li>
@@ -154,7 +154,7 @@ Zhaofan Zhang<sup>†</sup>, Rufeng Chen<sup>†</sup>, <u>Zhejian Yang</u><sup>
 <span style="color: grey;">
 <b><i>Trajectory Stitching Enhanced Experience Replay for Robust Continual Offline Reinforcement Learning</i></b></span>
 <br>
-<u>yang Yu, Sinuo Zhang, <u>Zhejian Yang</u>, Jifeng Hu, and Hechang Chen
+yang Yu, Sinuo Zhang, <u>Zhejian Yang</u>, Jifeng Hu, and Hechang Chen
 <br>
 <span style="color: grey;"><i>(under review)</i></span>
 </li>
