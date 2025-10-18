@@ -34,7 +34,7 @@ IEEE Transactions on Knowledge and Data Engineering (2025)
 <li>
 <b>Analytic Energy-Guided Policy Optimization for Offline Reinforcement Learning</b>
 <br>
-Jifeng Hu, Sili Huang, <u>Zhejian Yang</u>, Shengchao Hu, Li Shen, Hechang Chen, Lichao Sun, Yi Chang, Dacheng Tao
+Jifeng Hu, Sili Huang, <u>Zhejian Yang</u>, Shengchao Hu, Li Shen, Hechang Chen, Lichao Sun, Yi Chang, and Dacheng Tao
 <br>
 NeurIPS'2025
 </li>
