@@ -82,12 +82,14 @@ Knowledge-Based Systems (2024)
 Sinuo Zhang, Jifeng Hu, Xinqi Du, <u>Zhejian Yang</u>, Yang Yu, and Hechang Chen
 <br>
 IJCNN'2024
+</li>
 
 <li> <b>A Lightweight Data Selection Network for Image Classification via Policy Gradient</b>
 <br>
 Yang Yu, Xinqi Du, <u>Zhejian Yang</u>, Sinuo Zhang, Hechang Chen, Bohao Qu, Jifeng Hu
 <br>
 ICONIP'2024
+</li>
 
 <li> <b>SSBM: A signed stochastic block model for multiple structure discovery in large-scale exploratory signed networks</b>
 <br>
