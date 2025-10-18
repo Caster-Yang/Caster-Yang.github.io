@@ -127,12 +127,10 @@ Knowledge-Based Systems (2023)
 <span style="color: grey;">
 <b><i>Unifying Modern AI with Robotics: Survey on MDPs with Diffusion and Foundation Models</i></b></span>
 <br>
-Zhaofan Zhang<sup>&dagger;</sup>;, Rufeng Chen<sup>&dagger;</sup>, <u>Zhejian Yang</u><sup>&dagger;</sup>, Sihong Xie, Hechang Chen, and Hui Xiong
+Zhaofan Zhang<sup>&dagger</sup>;, Rufeng Chen<sup>&dagger;</sup>, <u>Zhejian Yang</u><sup>&dagger;</sup>, Sihong Xie, Hechang Chen, and Hui Xiong
 <br>
 <span style="color: grey;"><i>(under review)</i></span>
 </li>
-</ol>
-</p>
 
 <li>
 <span style="color: grey;">
@@ -160,6 +158,8 @@ Zhaofan Zhang<sup>&dagger;</sup>;, Rufeng Chen<sup>&dagger;</sup>, <u>Zhejian Ya
 <br>
 <span style="color: grey;"><i>(under review)</i></span>
 </li>
+</ol>
+</p>
 
 Awards
 ------
