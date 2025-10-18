@@ -156,7 +156,7 @@ Shengjie Wang, Jiuman Song, <u>Zhejian Yang</u>, Sinuo Zhang, and Hechang Chen
 <span style="color: grey;">
 <b><i>Trajectory Stitching Enhanced Experience Replay for Robust Continual Offline Reinforcement Learning</i></b></span>
 <br>
-yang Yu, Sinuo Zhang, <u>Zhejian Yang</u>, Jifeng Hu, and Hechang Chen
+Yang Yu, Sinuo Zhang, <u>Zhejian Yang</u>, Jifeng Hu, and Hechang Chen
 <br>
 <span style="color: grey;"><i>(under review)</i></span>
 </li>
