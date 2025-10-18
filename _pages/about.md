@@ -55,7 +55,6 @@ Jifeng Hu, Li Shen, Sili Huang, <u>Zhejian Yang</u>, Hechang Chen, Lichao Sun, Y
 IEEE transactions on neural networks and learning systems (2025)
 </li>
 
-</li> 
 <li> <b>Decision Mamba: Reinforcement Learning via Hybrid Selective Sequence Modeling</b>
 <br>
 Sili Huang, Jifeng Hu, <u>Zhejian Yang</u>, Liwei Yang, Tao Luo, Hechang Chen, Lichao Sun, and Bo Yang
