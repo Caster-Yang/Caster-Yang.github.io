@@ -144,6 +144,15 @@ Zilin Zhao, Chishui Chen, Haotian Shi, Jiale Chen, Xuanlin Yue, <u>Zhejian Yang<
 
 <li>
 <span style="color: grey;">
+<b><i>Large Language Models Post-training: Surveying Techniques from Alignment to Reasoning</i></b></span>
+<br>
+Guiyao Tie, Zeli Zhao, Dingjie Song, Fuyang Wei, Rong Zhou, Yurou Dai, Wen Yin, Zhejian Yang, Jiangyue Yan, Yao Su, Zhenhan Dai, Yifeng Xie, Yihan Cao, Lichao Sun, Pan Zhou, Lifang He, Hechang Chen, Yu Zhang, Qingsong Wen, Tianming Liu, Neil Zhenqiang Gong, Jiliang Tang, Caiming Xiong, Heng Ji, Philip S Yu, and Jianfeng Gao
+<br>
+<span style="color: grey;"><i>(under review)</i></span>
+</li>
+
+<li>
+<span style="color: grey;">
 <b><i>Coa-Tuning: Collaborative Adapter Ensembling with Prompt Enhancement for Class-Incremental Learning</i></b></span>
 <br>
 Shengjie Wang, Jiuman Song, <u>Zhejian Yang</u>, Sinuo Zhang, and Hechang Chen
