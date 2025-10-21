@@ -171,6 +171,17 @@ Yang Yu, Sinuo Zhang, <u>Zhejian Yang</u>, Jifeng Hu, and Hechang Chen
 </ol>
 </p>
 
+<li>
+<span style="color: grey;">
+<b><i>TImproving Safe Offline Reinforcement Learning via Dual-Guide Diffuser</i></b></span>
+<br>
+Rufeng Chen, <u>Zhejian Yang</u>, Hechang Chen, and Sihong Xie
+<br>
+<span style="color: grey;"><i>(under review)</i></span>
+</li>
+</ol>
+</p>
+
 Awards
 ------
 
