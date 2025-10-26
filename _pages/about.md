@@ -168,8 +168,6 @@ Yang Yu, Sinuo Zhang, <u>Zhejian Yang</u>, Jifeng Hu, and Hechang Chen
 <br>
 <span style="color: grey;"><i>(under review)</i></span>
 </li>
-</ol>
-</p>
 
 <li>
 <span style="color: grey;">
